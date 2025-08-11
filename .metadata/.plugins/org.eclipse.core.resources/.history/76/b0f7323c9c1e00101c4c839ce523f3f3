@@ -1,0 +1,5 @@
+package com.eminpolat.restapi.entity;
+
+public class Student {
+
+}

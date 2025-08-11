@@ -1,0 +1,5 @@
+package com.eminpolat.restapi.webApi;
+
+public class StudentController {
+
+}

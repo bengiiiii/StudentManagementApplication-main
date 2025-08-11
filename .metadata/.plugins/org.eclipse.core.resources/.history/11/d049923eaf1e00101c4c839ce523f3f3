@@ -1,0 +1,16 @@
+package com.eminpolat.restapi.webApi;
+
+import java.util.List;
+
+import org.springframework.web.bind.annotation.RestController;
+
+import com.eminpolat.restapi.entity.Student;
+
+
+@RestController
+public class StudentController {
+	public List<Student> getAllStudents()
+	{
+		return null;
+	}
+}

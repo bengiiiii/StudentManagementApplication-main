@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.eminpolat.restapi.controller&apos; to &apos;com.eminpolat.restapi.webApi&apos;&#x0A;- Original project: &apos;restapi&apos;&#x0A;- Original element: &apos;restapi/src/main/java/com.eminpolat.restapi.controller&apos;&#x0A;- Renamed element: &apos;restapi/src/main/java/com.eminpolat.restapi.webApi&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.eminpolat.restapi.controller&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.eminpolat.restapi.controller" name="com.eminpolat.restapi.webApi" qualified="false" references="true" stamp="1745234716624" textual="false" version="1.0"/>
+</session>
